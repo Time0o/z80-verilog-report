@@ -1,0 +1,8 @@
+aux/*
+!aux/.gitkeep
+resources/*
+!resources/dia
+resources/dia/*~
+!resources/pdf
+!resources/png
+!resources/verilog
